@@ -1,2 +1,2 @@
-# Network_-Designing_Labs
-Network Designing LAN and WAN in CISCO packet tracer and EVE-NG pro
+# Network_Designing_Labs
+Network Designing LAN and WAN in the CISCO packet tracer and EVE-NG pro
